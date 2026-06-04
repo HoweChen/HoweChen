@@ -1,7 +1,6 @@
 # Hi, I'm Howe 👋
 
-> Senior Software Engineer · Distributed Systems Builder · AI Infra Explorer  
-> 把复杂系统跑稳，把新技术落地，把工程效率拉满。
+> 以下这些都是AI生成的，哈哈
 
 ---
 
