@@ -1,6 +1,3 @@
-下面是一版偏 **有趣、工程味、AI 味、个性化** 的 GitHub Profile README，可直接复制到 `README.md`：
-
-````markdown
 # Hi, I'm Howe 👋
 
 > Senior Software Engineer · Distributed Systems Builder · AI Infra Explorer  
@@ -144,41 +141,3 @@ values:
   `debug distributed systems` → `optimize pipeline` → `review AI generated code` → `drink coffee` → `repeat`
 
 ---
-
-## 📈 GitHub Vibes
-
-<!-- You can enable these if you like -->
-
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoweChen&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoweChen&layout=compact&theme=tokyonight)
--->
-
-```text
-System status: mostly stable
-Deployment mood: cautiously optimistic
-AI assistant: enabled
-Coffee level: auto-scaling
-```
-
----
-
-## 📫 Connect
-
-如果你也对 **分布式系统、AI Infra、工程效率、开发者工具链** 感兴趣，欢迎交流。
-
-```text
-Building reliable systems.
-Shipping practical AI.
-Making engineering less painful.
-```
-
----
-
-### Thanks for visiting! 👋
-
-> May your systems be observable,  
-> your deployments be boring,  
-> and your incidents be short.
-````
